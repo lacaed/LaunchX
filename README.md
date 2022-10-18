@@ -1,2 +1,2 @@
 # LaunchX
-Couse Full stack developer
+Course Full stack developer
